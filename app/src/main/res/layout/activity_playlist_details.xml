@@ -54,9 +54,10 @@
 
         <com.google.android.material.imageview.ShapeableImageView
             android:id="@+id/playlistImgPD"
-            android:layout_width="250dp"
+            android:layout_width="204dp"
             android:layout_height="match_parent"
-            android:src="@drawable/music_player_icon_slash_screen"/>
+            android:padding="20dp"
+            android:src="@drawable/playlisticon" />
 
         <TextView
             android:id="@+id/moreInfoPD"
